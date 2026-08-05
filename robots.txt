@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://b52club2026.info/sitemap.xml

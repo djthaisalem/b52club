@@ -1,0 +1,12 @@
+# Local editor and operating-system files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Local server and diagnostic output
+*.log
+*.tmp
+*.bak
+
+# Dependencies, if development tooling is added later
+node_modules/
